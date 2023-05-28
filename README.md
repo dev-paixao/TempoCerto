@@ -1,7 +1,7 @@
 # TempoCerto
  Aplicação web que utiliza a API Weather API como fonte de dados desenvolvida com HTML, CSS e JavaScript, a aplicação oferece uma experiência simplificada para acessar informações meteorológicas .
 
-## Como usar
+## :pushpin: Como usar
 
 1. Acesse a aplicação TempoCerto [aqui](https://dev-paixao.github.io/TempoCerto/).
 
@@ -9,13 +9,13 @@
 
 3. Clique no botão "Buscar Cima" para obter o resultado.
 
-## Tecnologias utilizadas
+## :rocket: Tecnologias utilizadas
 
 - HTML
 - CSS
 - JavaScript
 
-## Contribuindo
+## :handshake: Contribuindo
 
 Contribuições são bem-vindas! Se você deseja melhorar ou adicionar recursos à aplicação Tempo Certo, siga estas etapas:
 
@@ -33,6 +33,6 @@ Contribuições são bem-vindas! Se você deseja melhorar ou adicionar recursos 
 
 7. Aguarde a revisão e feedback.
 
-## Licença
+## :page_facing_up: Licença
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).

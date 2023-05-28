@@ -9,7 +9,7 @@
 
 3. Clique no botão "Buscar Cima" para obter o resultado.
 
-## :rocket: Tecnologias utilizadas
+## :computer: Tecnologias utilizadas
 
 - HTML
 - CSS

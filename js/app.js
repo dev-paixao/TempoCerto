@@ -25,7 +25,8 @@ async function handleFormSubmit(e) {
 }
 
 async function getWeatherData(city, country) {
-  const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${API_KEY}&units=metric`;
+  const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${API_KEY}&units=metric&lang=pt`;
+
   const response = await fetch(apiUrl);
 
   if (!response.ok) {
